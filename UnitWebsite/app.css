@@ -1,0 +1,37 @@
+h2 {
+    font-family: Oswald; 
+    text-align: center;
+}
+body{
+    background-color: rgb(23,125 ,193 );
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+ul{
+    padding: 10px;
+}
+li{
+    display: inline; 
+    padding: 0px 10px 0px 10px;
+    color:rgb(150,216,255)
+}
+header{
+    text-align: center;
+    background:url("https://images.unsplash.com/photo-1488693192384-08b1db4991eb?auto=format&fit=crop&w=1050&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+	background-size:cover;
+    padding:20px 0px 0px 0px
+}
+h1{
+    font-size: 50px;
+    color:rgb(237,244,249);
+    font-family: Nosifer;
+}
+#subHeading{
+    text-align: left;
+}
+p{
+    font-family:Montserrat
+}
+
