@@ -34,9 +34,6 @@ h1{
 p{
     font-family:Montserrat;
 }
-#bulletList{
-	list-style-position:inside
-}
 article {
 	max-width: 500px;
 	padding: 20px;
