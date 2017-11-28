@@ -12,10 +12,12 @@ body{
 ul{
     padding: 10px;
 }
-li{
-    display: inline; 
+li{ 
     padding: 0px 10px 0px 10px;
     color:rgb(150,216,255)
+}
+#bulletList{
+	list-style-position:inside
 }
 header{
     text-align: center;
